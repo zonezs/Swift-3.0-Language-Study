@@ -1,3 +1,3 @@
 # cocoa ui
 
-[cocoa](https://www.cocoacontrols.com/) is very cool!
+[cocoa](https://www.cocoacontrols.com/) 
